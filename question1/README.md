@@ -1,1 +1,1 @@
-Screenshot - ![Terminal screenshot](q1_output9.png)
+Screenshot - ![screenshot](q1_output9.png)
